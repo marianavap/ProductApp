@@ -17,10 +17,7 @@ A simple SwiftUI application that fetches and displays a list of products from a
      - Discount Percentage
      - Stock Availability
 
-3. **Local Data Persistence**:
-   - Products are cached locally after the first API fetch using `UserDefaults`.
-
-4. **Clean Architecture**:
+3. **Clean Architecture**:
    - **MVVM Pattern** with separation of responsibilities between Model, View, and ViewModel.
    - Reusable components like `ProductRowView`.
 
